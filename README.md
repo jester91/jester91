@@ -12,11 +12,6 @@ I am a seasoned DevOps/Cloud Engineer with extensive experience in infrastructur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jester91&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jester91&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jester91&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/jester91) 
