@@ -13,7 +13,7 @@ I am a seasoned DevOps/Cloud Engineer with extensive experience in infrastructur
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jester91&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/jester91) 
 
   
