@@ -14,7 +14,7 @@ I am a seasoned DevOps/Cloud Engineer with extensive experience in infrastructur
 
 
   ## 💰 You can help me by donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/jester91) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jester91) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
